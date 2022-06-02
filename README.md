@@ -1,6 +1,6 @@
 This folder contains code for the FairBayes-DPP algorithm to estimate the Fair Bayes-optimal classifier under predictive parity:
-
 Zeng, X., Dobriban, E., & Cheng, G. (2022). Fair Bayes-Optimal Classifiers Under Predictive Parity. arXiv preprint arXiv:2205.07182.
+
 Run the following command to install the required packages:
 pip install -r requirements.txt
 
